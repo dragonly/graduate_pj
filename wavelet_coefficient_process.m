@@ -1,0 +1,1 @@
+DecCoefNoiseVISU = visu_shrink(DecCoefNoise, size(ImageNoise));
